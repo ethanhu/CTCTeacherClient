@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Nov 04 06:16:43 CST 2010
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=CTCTeacherClient_GZSZV3.0.jar
+manifest.mergeall=true
+manifest.mainclass=ctc.CTCClient_T_GZSZ
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
